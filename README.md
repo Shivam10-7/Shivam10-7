@@ -15,10 +15,10 @@ Here’s a sneak peek into my coding journey:
 
 ---
 
-### 💬 **Dialogue Box: Latest Commit**
+
 Here's what I’ve been working on recently:
 
-```json
+
 {
   "latest_commit": {
     "message": "Added cool graphics to README 🎨",
