@@ -17,3 +17,5 @@ Here’s a sneak peek into my coding journey:
 
 
 ![Your Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam10-7&theme=github)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam10-7&show_icons=true&theme=radical)
+
