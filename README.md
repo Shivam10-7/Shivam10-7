@@ -1,6 +1,16 @@
-# 🚀 Welcome to Shivam's GitHub Universe! 🚀
+# 🚀 Welcome to Shivam's backyard! 🚀
 
-Hey there! 👋 I'm **Shivam**, a passionate developer who loves building cool stuff and contributing to open-source. This is my space to showcase my projects, contributions, and coding journey. Let’s make tech fun and impactful! 🌟
+## 👋 Hi, I'm Shivam Karun Pilley!  
+
+🎓 Diploma student in Information Technology at Government Polytechnic Nagpur.  
+💻 Passionate about coding, AI, and web development.  
+🚀 Skilled in C, C++, Python, HTML, CSS, and SQL.  
+🎮 Tech enthusiast and gamer.  
+
+### 🌐 Connect with me:  
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/shivam-pilley-991356334/)  
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/Shivam_Pilley29)  
+
 
 ---
 
