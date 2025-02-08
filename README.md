@@ -1,8 +1,28 @@
-- 👋 Hi, I’m @Shivam10-7
-- 👀 I’m interested in trains,sports and coding.
-- 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on anything that is either amazing or sounds amazing.
-- 😤 Messi or Ronaldo: My answer is MESSI.
-- ⚡ Fun fact: WAR is fought between politicians, not between Nations.
+# 🚀 Welcome to Shivam's GitHub Universe! 🚀
 
+Hey there! 👋 I'm **Shivam**, a passionate developer who loves building cool stuff and contributing to open-source. This is my space to showcase my projects, contributions, and coding journey. Let’s make tech fun and impactful! 🌟
 
+---
+
+![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+### 📊 **Live GitHub Stats**
+Here’s a sneak peek into my coding journey:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam10-7&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam10-7&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### 💬 **Dialogue Box: Latest Commit**
+Here's what I’ve been working on recently:
+
+```json
+{
+  "latest_commit": {
+    "message": "Added cool graphics to README 🎨",
+    "date": "2023-10-25",
+    "repo": "your-repo-name"
+  }
+}
