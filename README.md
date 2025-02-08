@@ -12,10 +12,11 @@
 ### 🌐 Connect with me:  
 <p align="left">
   <a href="https://www.linkedin.com/in/shivam-pilley-991356334/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32px" height="32px" style="border-radius: 50%; margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40px" height="40px" style="border-radius: 50%;">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Shivam_Pilley29" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32px" height="32px" style="border-radius: 50%;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40px" height="40px" style="border-radius: 50%;">
   </a>
 </p>
 
