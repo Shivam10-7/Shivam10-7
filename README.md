@@ -7,9 +7,16 @@
 🚀 Skilled in C, C++, Python, HTML, CSS, and SQL.  
 🎮 Tech enthusiast and gamer.  
 
+
+
 ### 🌐 Connect with me:  
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/shivam-pilley-991356334/)  
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/Shivam_Pilley29)  
+<a href="https://www.linkedin.com/in/shivam-pilley-991356334/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="24px" height="24px">
+</a>  
+<a href="https://twitter.com/Shivam_Pilley29" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="24px" height="24px">
+</a>
+
 
 
 ---
