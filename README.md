@@ -1,154 +1,128 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&animation=fadeIn"/>
-  
-  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Shivam Karun Pilley
+# 👋 Hey There! Welcome to My GitHub!
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=IT+Student;Learning+to+Code;Debugging+Apprentice;Future+Developer;Professional+Googler" alt="Typing SVG" />
-</div>
+Hi! I'm Shivam, an IT student at Government Polytechnic Nagpur, diving headfirst into the wild world of programming. I'm here to turn my coding chaos into clarity—one bug, one line, and one "Aha!" moment at a time. As a beginner, I’m passionate about learning, building, and growing as a coder. Stick around to join me on this journey!
 
 ---
 
-<div align="center">
-  <img align="right" width="350" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Coding Animation" />
-  
-  ## About Me
+## 📑 Quick Navigation
 
-  ```javascript
-  const shivam = {
-    education: "Diploma in Information Technology",
-    institution: "Government Polytechnic Nagpur",
-    skills: ["HTML", "CSS", "C", "C++", "Python", "SQL"],
-    currentStatus: "Learning the basics",
-    favouriteActivity: "Trying to fix bugs I created",
-    debugTechnique: "Console.log everything",
-    motto: "Working on not being terrible at coding"
-  };
-  ```
-  
-  <p align="left">
-    Hello world! I'm an IT student just starting my coding journey. Currently learning the basics and trying not to break my computer in the process. 
-  </p>
-  
-  <p align="left">
-    Every day I'm getting slightly less bad at programming, which is my version of success!
-  </p>
-</div>
+- [About Me](#-about-me)
+- [What I'm Learning](#-what-im-learning)
+- [My Coding Journey](#-my-coding-journey)
+- [Current Projects](#-current-projects)
+- [Skills Progress](#-skills-progress)
+- [GitHub Stats](#-github-stats)
+- [Connect with Me](#-connect-with-me)
+- [Favorite Resources](#-favorite-resources)
+- [A Dash of Humor](#-a-dash-of-humor)
 
-## <img src="https://media.giphy.com/media/VDdh2wVIrPYwzMyOwR/giphy.gif" width="30"> Things I'm Learning
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</div>
+## 🌟 About Me
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> My Coding Journey So Far
+I’m a budding coder who’s just starting to unravel the mysteries of programming. I study IT at Government Polytechnic Nagpur, where I’m learning the ropes of coding, debugging, and not breaking my laptop (fingers crossed). I love the challenge of solving problems and the thrill of seeing my code actually work. Outside of coding, I’m into video games, tech reading, and dreaming of becoming a coding wizard someday!
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/hrSFdM4rg8VFpXEn7E/giphy.gif" width="230px">
-      </td>
-      <td>
-        <h3>Stages of Learning to Code:</h3>
-        <ul>
-          <li>✅ "Hello World" (Nailed it!)</li>
-          <li>✅ First syntax error (Many, many times)</li>
-          <li>✅ Staying up late fixing one bug</li>
-          <li>✅ Stackoverflow dependency achieved</li>
-          <li>✅ Realizing I know nothing</li>
-          <li>⏳ Actually understanding pointers</li>
-          <li>⏳ Making something useful</li>
-          <li>⏳ Job-ready skills</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> A Day in My Life
+## 📚 What I'm Learning
 
-```text
-🌞 Morning: Wake up and question my decision to learn programming
-🏫 9AM-3PM: Classes where I pretend to understand everything
-🧠 4PM-6PM: Stare at code until it makes sense (it doesn't)
-🍕 6PM-7PM: Eating while watching coding tutorials
-💻 7PM-10PM: Write 10 lines of code, delete 9
-🛌 10PM: Decide to fix "one more bug"
-🌙 2AM: Still fixing that "one bug"
-```
+I’m currently exploring these languages and technologies, building a solid foundation step by step:
 
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> GitHub Stats
+- **HTML & CSS**: Crafting the web, one tag and style at a time. Excited to build my first portfolio site soon!
+- **C & C++**: Grasping the fundamentals. Pointers are still my nemesis, but I’m getting there.
+- **Python**: Loving its versatility and eager to dive deeper.
+- **SQL**: Just starting to query databases—tables are my new friends.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam10-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=a9fef7" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam10-7&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="49%" alt="GitHub Streak" />
-</div>
+My focus is on mastering the basics while exploring what excites me most: web development and problem-solving.
 
-## <img src="https://media.giphy.com/media/rhKEpKEiYLXNu/giphy.gif" width="30"> Programming Humor
+---
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</div>
+## 🚀 My Coding Journey
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with Me
+Here are some milestones I’ve hit so far (and a few stumbles I’ve survived):
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/shivam-pilley-991356334/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/Shivam_Pilley29">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+- **First "Hello World"**: Felt like I’d unlocked a superpower.
+- **First Bug Fix**: Hours of debugging paid off—victory tasted sweet!
+- **First Web Page**: Made a simple page with HTML/CSS that didn’t look half bad.
+- **Current Struggle**: Wrangling pointers in C. If you’ve got tips, I’m all ears!
 
-## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> Programming Facts About Me
+Every win, big or small, keeps me motivated. It’s all about progress, not perfection.
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif" width="240px">
-      </td>
-      <td>
-        <ul>
-          <li>💻 My most advanced project is a "Hello World" program with really good comments</li>
-          <li>📚 I've spent more time watching programming tutorials than actually programming</li>
-          <li>🔍 I Google the same basic syntax at least 5 times a day</li>
-          <li>⌨️ I feel like a hacker when I use keyboard shortcuts</li>
-          <li>🤔 I still don't know what "refactoring" actually means, but I say it a lot</li>
-          <li>🎮 I'm better at gaming than coding (for now!)</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-## <img src="https://media.giphy.com/media/jPAdK8Nfzzwt2rJCpB/giphy.gif" width="35"> Current Mood:
+## 💻 Current Projects
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif" width="220px">
-  
-  <h3>Trying to understand coding like...</h3>
-  
-  | Skill | Progress |
-  | ------------ | ------ |
-  | HTML | ████████░░ 80% |
-  | CSS | ██████░░░░ 60% |
-  | JavaScript | ███░░░░░░░ 30% |
-  | Python | ████░░░░░░ 40% |
-  | Confidence | ██░░░░░░░░ 20% |
-  | Confusion | ██████████ 100% |
-</div>
+Here’s what I’m tinkering with right now:
 
-<div align="center">
-  <p>If you made it this far down my README, you deserve a high five! 🖐️</p>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&animation=fadeIn"/>
-</div>
+- **C Calculator**: A simple program to practice arithmetic operations.
+- **Portfolio Website**: Building a personal site with HTML and CSS to showcase my work.
+- **Python Basics**: Experimenting with loops and conditionals to get comfortable.
+
+These mini-projects are helping me apply what I’m learning and boost my confidence.
+
+---
+
+## 🛠️ Skills Progress
+
+I’m not an expert (yet!), but here’s where I stand with my skills:
+
+- **HTML**: ⭐⭐⭐⭐ (Pretty comfy here)
+- **CSS**: ⭐⭐⭐ (Styling’s getting easier)
+- **C**: ⭐⭐ (Learning the logic)
+- **C++**: ⭐ (Just starting out)
+- **Python**: ⭐⭐ (Excited and improving)
+- **SQL**: ⭐ (Baby steps)
+
+*Stars reflect my comfort level, not mastery—I’m still growing!*
+
+---
+
+## 📊 GitHub Stats
+
+Since I’m just beginning, my stats are modest, but they show my journey:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam10-7&show_icons=true&theme=light)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Shivam10-7&theme=light)
+
+*Note: Replace `Shivam10-7` with your actual GitHub username!*
+
+---
+
+## 🔗 Connect with Me
+
+I’d love to chat about coding, learning, or anything tech-related! Reach out here:
+
+- **LinkedIn**: [Shivam Pilley](https://www.linkedin.com/in/shivam-pilley-991356334/)
+- **Twitter**: [@Shivam_Pilley29](https://twitter.com/Shivam_Pilley29)
+- **Email**: [shivampilly29@gmail.com](mailto:shivampilly29@gmail.com)
+
+If you’re a fellow beginner, let’s learn together—drop me a line!
+
+---
+
+## 📖 Favorite Resources
+
+These tools and sites have been lifesavers in my coding journey:
+
+- **[FreeCodeCamp](https://www.freecodecamp.org/)**: Awesome for web dev basics.
+- **[W3Schools](https://www.w3schools.com/)**: My go-to for quick syntax checks.
+- **[Codecademy](https://www.codecademy.com/)**: Fun, interactive lessons.
+- **[Stack Overflow](https://stackoverflow.com/)**: For when I’m stuck (aka daily).
+
+Check them out—they might help you too!
+
+---
+
+## 😂 A Dash of Humor
+
+*Me trying to understand recursion:*  
+![Recursion Gif](https://media.giphy.com/media/3o7TKz2b3wsb6pLtwk/giphy.gif)  
+*(Spoiler: I’m still looping on this one!)*
+
+---
+
+## 🌈 Closing Note
+
+Thanks for visiting my little corner of GitHub! My repositories are mostly practice projects for now, but they’re a testament to my learning process. Got tips, resources, or just want to say hi? Feel free to reach out. Here’s to coding, learning, and growing together—happy coding! 🚀
+
+---
