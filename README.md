@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on sharpening my web development skills.
 - 🌱 I’m currently learning advanced concepts in **java and networking**.
-- 💬 Ask me about **C++, Python, java and the MERN stack**.
+- 💬 Ask me about **C++, Python, JAVA and the MERN stack**.
 - 📫 How to reach me **shivampilley@gmail.com**.
 - ⚡ Fun fact: I believe in the power of "less is more" in code and in life.
 
