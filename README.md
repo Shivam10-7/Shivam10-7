@@ -10,8 +10,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on sharpening my web development skills.
-- 🌱 I’m currently learning advanced concepts in **Node.js and system design**.
-- 💬 Ask me about **C++, Python, and the MERN stack**.
+- 🌱 I’m currently learning advanced concepts in **java and networking**.
+- 💬 Ask me about **C++, Python, java and the MERN stack**.
 - 📫 How to reach me **shivampilley@gmail.com**.
 - ⚡ Fun fact: I believe in the power of "less is more" in code and in life.
 
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,nodejs,mongodb,mysql&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,java,javascript,nodejs,mongodb,mysql&perline=5" />
   </a>
 </p>
 
