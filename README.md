@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning advanced concepts in **java and networking**.
 - 💬 Ask me about **C++, Python, JAVA and the MERN stack**.
 - 📫 How to reach me **shivampilley@gmail.com**.
-- ⚡ Fun fact: I believe in the power of "less is more" in code and in life.
+- ⚡ Fun fact: I believe that 0 and 1 power the whole world.
 
 ---
 
