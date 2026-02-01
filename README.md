@@ -45,18 +45,6 @@ I value **clarity, correctness, and continuous improvement** in both code and le
 - 🔹 Understanding networking concepts at a deeper level  
 - 🔹 Improving problem-solving and algorithmic thinking  
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam10-7&show_icons=true&hide_border=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam10-7&layout=compact&hide_border=true&theme=transparent" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam10-7&hide_border=true&theme=transparent" width="90%" />
-</p>
 
 ---
 
