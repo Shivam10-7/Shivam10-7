@@ -1,54 +1,71 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>Shivam Karun Pilley</h1>
-  <p align="center">
-    <strong>IT Student | Aspiring Developer</strong><br>
-    India 🇮🇳
-  </p>
+# 👋 Shivam Karun Pilley
 
-  <a href="mailto:shivampilley@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shivam-pilley-991356334/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Shivam_Pilley29">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-</div>
+**IT Student · Aspiring Software Developer**  
+📍 India
 
 ---
 
-### 🔎 Overview
+## About Me
 
-* 🔭 **Focus** · Refining web development and MERN stack applications.
-* 🌱 **Learning** · Advanced concepts in Java and Networking.
-* 💬 **Expertise** · C++, Python, Java, and the MERN stack.
-* ⚡ **Motto** · Logic powers the world through 0s and 1s.
+I am an IT student focused on **building solid, logic-driven software systems**.  
+My current work centers around **web development using the MERN stack**, alongside strengthening my foundations in **Java, Networking, and core computer science concepts**.
+
+I value **clarity, correctness, and continuous improvement** in both code and learning.
 
 ---
 
-### 💻 Tech Stack
+## Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,nodejs,mongodb,mysql&perline=10" />
-  </a>
+### Languages
+- C  
+- C++  
+- Python  
+- Java  
+- JavaScript  
+
+### Web & Backend
+- HTML  
+- CSS  
+- Node.js  
+
+### Databases
+- MongoDB  
+- MySQL  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,nodejs,mongodb,mysql&perline=5" />
 </p>
 
 ---
 
-### 📈 Activity
+## What I’m Working On
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam10-7&show_icons=true&theme=transparent&title_color=6366f1&text_color=a5a5a5&icon_color=6366f1&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam10-7&layout=compact&theme=transparent&title_color=6366f1&text_color=a5a5a5&hide_border=true" width="45%" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam10-7&theme=transparent&hide_border=true&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="95%" />
-</div>
+- 🔹 Strengthening MERN stack fundamentals  
+- 🔹 Writing cleaner, more maintainable Java code  
+- 🔹 Understanding networking concepts at a deeper level  
+- 🔹 Improving problem-solving and algorithmic thinking  
 
 ---
 
+## GitHub Activity
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=2&section=footer&width=1000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam10-7&show_icons=true&hide_border=true&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam10-7&layout=compact&hide_border=true&theme=transparent" width="45%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam10-7&hide_border=true&theme=transparent" width="90%" />
+</p>
+
+---
+
+## Connect With Me
+
+- 📧 Email: **shivampilley@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/shivam-pilley-991356334](https://www.linkedin.com/in/shivam-pilley-991356334/)  
+- 🐦 Twitter: [@Shivam_Pilley29](https://twitter.com/Shivam_Pilley29)
+
+---
+
+> *Logic drives the world — one bit at a time.*
