@@ -54,7 +54,7 @@ I value **clarity, correctness, and continuous improvement** in both code and le
 - 📧 Email: **shivampilley@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/shivam-pilley-991356334](https://www.linkedin.com/in/shivam-pilley-991356334/)  
 - 🐦 Twitter: [@Shivam_Pilley29](https://twitter.com/Shivam_Pilley29)
-- 🧑🏾‍💻 LeetCode: [@Shivam_Pilley29]([https://leetcode.com/u/Shivam10-7/](https://leetcode.com/u/Shivam10-7/)
+- 🧑🏾‍💻 LeetCode: ([https://leetcode.com/u/Shivam10-7/](https://leetcode.com/u/Shivam10-7/)
 
 ---
 
