@@ -53,5 +53,5 @@ I prefer understanding **how and why things work**, rather than simply making th
     <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="X" />
   </a>
 </p>
-
+<br>
 > **Logic → Code → Systems → Improvement**
