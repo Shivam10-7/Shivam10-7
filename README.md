@@ -1,57 +1,61 @@
-# Shivam Karun Pilley
+# 👋 Shivam Karun Pilley
 
-**IT Student · Aspiring Software Developer**
-
-Building software, strengthening fundamentals, and learning by doing.
-
----
-
-### About
-
-I'm an IT student interested in **software development, backend systems, and problem solving**.
-
-Currently, I'm focused on:
-
-* MERN stack development
-* Java and core computer science
-* Networking fundamentals
-* Data structures & problem solving
-* Writing clean, maintainable code
-
-I prefer understanding **how and why things work**, rather than simply making them work.
+**CSE Student · Aspiring Software Developer**  
+📍 India
 
 ---
 
-### Technologies
+## About Me
+
+I am an CSE student focused on **building solid, problem solving, DSA, logic-driven software systems**.  
+My current work centers around **web development using the MERN stack**, alongside strengthening my foundations in **Data pipelines,Java, Networking, CS fundamentals and core computer science concepts**.
+
+I value **clarity, correctness, and continuous improvement** in both code and learning.
+
+---
+
+## Tech Stack
+
+### Languages
+- C  
+- C++  
+- Python  
+- Java  
+- JavaScript  
+
+### Web & Backend
+- HTML  
+- CSS  
+- Node.js  
+
+### Databases
+- MongoDB  
+- MySQL  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css,nodejs,mongodb,mysql&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,nodejs,mongodb,mysql&perline=5" />
 </p>
 
 ---
 
-### Currently Learning
+## What I’m Working On
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb&perline=4" />
-</p>
+- 🔹 Strengthening MERN stack fundamentals  
+- 🔹 Writing cleaner, more maintainable JavaScript code.
+- 🔹 Problem solving and planning optimized solution.
+- 🔹 Understanding networking concepts at a deeper level  
+- 🔹 Improving problem-solving and algorithmic thinking  
 
-**Focus:** Building full-stack applications with the MERN ecosystem while improving my understanding of software architecture and backend development.
 
 ---
 
-### Connect
+## Connect With Me
 
-<p align="left">
-  <a href="mailto:shivampilley@gmail.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/shivam-pilley-991356334/" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/Shivam_Pilley29" title="X">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="X" />
-  </a>
-</p>
-<br>
-> Logic → Code → Systems → Improvement
+- 📧 Email: **shivampilley@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/shivam-pilley-991356334](https://www.linkedin.com/in/shivam-pilley-991356334/)  
+- 🐦 Twitter: [@Shivam_Pilley29](https://twitter.com/Shivam_Pilley29)
+- 🧑🏾‍💻 LeetCode: [@Shivam_Pilley29]([https://leetcode.com/u/Shivam10-7/](https://leetcode.com/u/Shivam10-7/)
+
+---
+
+> *Logic drives the world — one bit at a time.*
