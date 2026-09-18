@@ -15,7 +15,7 @@ Currently, I'm focused on:
 * MERN stack development
 * Java and core computer science
 * Networking fundamentals
-* Data structures & algorithmic thinking
+* Data structures & problem solving
 * Writing clean, maintainable code
 
 I prefer understanding **how and why things work**, rather than simply making them work.
