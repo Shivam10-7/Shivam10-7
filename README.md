@@ -54,4 +54,4 @@ I prefer understanding **how and why things work**, rather than simply making th
   </a>
 </p>
 <br>
-> **Logic → Code → Systems → Improvement**
+> Logic → Code → Systems → Improvement
