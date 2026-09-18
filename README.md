@@ -42,15 +42,15 @@ I prefer understanding **how and why things work**, rather than simply making th
 
 ### Connect
 
-<p>
-  <a href="mailto:shivampilley@gmail.com">
-    <img src="https://img.shields.io/badge/Email-181717?style=flat&logo=gmail&logoColor=white" />
+<p align="left">
+  <a href="mailto:shivampilley@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/shivam-pilley-991356334/">
-    <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/shivam-pilley-991356334/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/Shivam_Pilley29">
-    <img src="https://img.shields.io/badge/Twitter-181717?style=flat&logo=x&logoColor=white" />
+  <a href="https://twitter.com/Shivam_Pilley29" title="X">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="X" />
   </a>
 </p>
 
